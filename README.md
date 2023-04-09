@@ -8,7 +8,9 @@ Suppose that γ and σ are two continuous bounded variation paths which take val
 
 The paper on our General/Weighted Signature Kernel Methods can be found on arXiv:
 
-Thomas Cass, Terry Lyons, and Xingcheng Xu. "General Signature Kernels." arXiv preprint arXiv:2107.00447 (2021).
+Thomas Cass, Terry Lyons, and Xingcheng Xu. "General Signature Kernels." arXiv preprint arXiv:2107.00447 (2021). 
+
+<a href="https://arxiv.org/abs/2107.00447" title="[arXiv Link]" target="_blank">[arXiv Link]</a> <a href="https://arxiv.org/pdf/2107.00447.pdf" title="[PDF]" target="_blank">[PDF]</a>
 
 
 ## Citation
