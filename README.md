@@ -25,6 +25,9 @@ Thomas Cass, Terry Lyons, and Xingcheng Xu. “Weighted Signature Kernels.” An
 * The codes in "time_series_classfication" provide the use of weighted signature kernels applied to the challenge of multivariate time series classification using
 the UEA datasets, which are available at https://timeseriesclassification.com/. We run the experiments both with and without augmenting the time series by adding an extra time coordinate. The code for augmenting is in "paths_transform.py".
 
+## Code Reference
+* https://github.com/crispitagorico/sigkernel
+
 ## Citation
 
 Please cite the paper if you use the idea or code in this paper/repo.
