@@ -8,7 +8,7 @@ Suppose that γ and σ are two continuous bounded variation paths which take val
 
 The paper on our General/Weighted Signature Kernel Methods will be forthcoming on Annals of Applied Probability. The early version can be found on arXiv:
 
-Thomas Cass, Terry Lyons, and Xingcheng Xu. “Weighted Signature Kernels.” Annals of Applied Probability (AAP), accepted/forthcoming (2023+). (Early access: as “General Signature Kernels” on arXiv preprint arXiv:2107.00447 (2021))
+Thomas Cass, Terry Lyons, and Xingcheng Xu. “Weighted Signature Kernels.” Annals of Applied Probability (AAP), forthcoming (2023). (Early access: as “General Signature Kernels” on arXiv preprint arXiv:2107.00447 (2021))
 
 <a href="https://arxiv.org/abs/2107.00447" title="[arXiv Link]" target="_blank">[arXiv Link]</a> <a href="https://arxiv.org/pdf/2107.00447.pdf" title="[PDF on arXiv (the first version)]" target="_blank">[PDF on arXiv (the first version)]</a>
 
@@ -36,7 +36,7 @@ Please cite the paper if you use the idea or code in this paper/repo.
 @misc{WSigKernel,
   author = {Thomas Cass, Terry Lyons, and Xingcheng Xu},
   title = {Weighted Signature Kernels},
-  year = {2023+},
+  year = {2023},
   publisher = {Institute of Mathematical Statistics},
   journal = {Annals of Applied Probability},
 }
